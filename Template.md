@@ -24,8 +24,9 @@ Contact: [Contact information]
 
 Together, the farm and student are referred to as “the Parties.”
 
-2. Project Scope and Intended Use
+2. Project Scope, Intended Use and Research question
 
+2.1 Project Scope
 Research Purpose:
 [Briefly describe the research question, project, or study.]
 
@@ -43,6 +44,20 @@ The data provided or collected under this Agreement will be used for:
 [Other permitted use]
 
 The student will not use the data for purposes outside the scope of this Agreement without obtaining permission from the farm.
+
+Research question
+
+Research Question:
+
+
+Research Objectives:
+
+
+Research Activities:
+
+
+Expected Outcome:
+
 
 3. Data to Be Collected and Methods
 3.1 Data Provided by the Farm

@@ -45,8 +45,6 @@ The data provided or collected under this Agreement will be used for:
 
 The student will not use the data for purposes outside the scope of this Agreement without obtaining permission from the farm.
 
-Research question
-
 Research Question:
 
 
@@ -160,9 +158,9 @@ The student will make reasonable efforts to ensure that published results do not
 
 9. Data Repository and Retention
 
-Repository / Storage Location:
+Repository / Storage Location: Github
 
-Person responsible for the data:
+Person responsible for the data: Researcher
 
 Data retention period: At the end of the retention period, the data will be destroyed by the institution.
 

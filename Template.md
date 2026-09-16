@@ -131,18 +131,16 @@ If data are lost, disclosed, or accessed without authorization, the student will
 
 Where appropriate and consistent with confidentiality and the farm's rights, the student will manage research data according to the FAIR principles.
 
-Findable:
+* Findable:
 The research project will have a designated GitHub repository containing the research code, analysis notebooks, documentation, and other relevant research materials. The repository will not contain the underlying farm data.The GitHub repository may be publicly accessible, where appropriate, to support discovery and transparency of the research methods and outputs. The underlying farm data will remain separate from the repository and will not be publicly accessible.
 
-Accessible:
+* Accessible:
 Access to the underlying farm data will be restricted to the authorized research team. Members of the public may access the GitHub repository and its research materials but will not have access to the farm data. Data access will be controlled through [secure storage / institutional repository / other access-controlled system]. The farm data will not be publicly shared or distributed without the farm's permission.
 
-Interoperable
+* Interoperable
 Research code, notebooks, and documentation will use appropriate and commonly supported formats where practical.Data formats, metadata, and documentation will be maintained in a manner that allows authorized members of the research team to access, analyze, and interpret the data.
 
-[Specify data formats, standards, or metadata practices.]
-
-Reusable
+* Reusable
 The research team will provide appropriate documentation of the research methods, analytical procedures, data provenance, and relevant metadata to support reproducibility and responsible reuse of the research materials. The GitHub repository may contain reusable research code and notebooks but will not contain the underlying farm data. Any reuse of the farm data will be limited to the purposes authorized under this Agreement and will remain subject to the farm's confidentiality, ownership, and data-use restrictions. FAIR data practices will not require the student to make confidential or commercially sensitive farm information publicly available.
 
 8. Data Sharing and Publication
